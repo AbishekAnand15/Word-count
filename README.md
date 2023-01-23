@@ -1,4 +1,4 @@
-
+# WORD COUNT
 ## AIM:
 To write a python program for getting the word count from a text.
 
